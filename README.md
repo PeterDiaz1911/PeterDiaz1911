@@ -1,108 +1,126 @@
-# <div align="center">Hi, I'm Pedro Jair Díaz Loza 👋</div>
 
 <div align="center">
 
-### 💻 Software Developer | Web Developer | Systems Engineering Student
+<img src="./assets/banner.svg" alt="Pedro Jair Díaz Loza - Software Developer" width="100%">
 
-**Building modern web experiences, scalable systems, and creative digital solutions.**
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?PeterDiaz1911&label=Profile%20Views&color=0e75b6&style=flat)
-![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-3ECF8E?style=flat)
+### Desarrollador Web | Ingeniería de Sistemas
+
+**React · TypeScript · JavaScript · Python · Java · Supabase**
+
+Desarrollo aplicaciones web, landing pages y sistemas digitales con un enfoque en el diseño, la funcionalidad y la experiencia de usuario.
+
+[![GitHub](https://img.shields.io/badge/GitHub-PeterDiaz1911-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/PeterDiaz1911)
+![Visitas](https://komarev.com/ghpvc/?username=PeterDiaz1911&label=Visitas%20al%20perfil&color=2563eb&style=flat-square)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## Sobre mí
 
-I'm **Pedro Jair Díaz Loza**, a Systems Engineering student from Peru 🇵🇪, passionate about software development, modern web technologies, and creating digital solutions that solve real-world problems.
+Soy **Pedro Jair Díaz Loza**, estudiante de Ingeniería de Sistemas en la Universidad Privada San Juan Bautista, Perú.
 
-- 🚀 I develop **modern websites, landing pages, and web-based systems**.
-- ⚛️ I work with **React, TypeScript, JavaScript, HTML, and CSS**.
-- 🐍 I have programming knowledge in **Python and Java**.
-- 🗄️ I use **Supabase** for backend services and databases.
-- 📱 I have experience learning and working with **Android Studio**.
-- 🛠️ I use **Git and GitHub** for version control and collaboration.
-- 🌱 Always improving my skills in **full-stack development, databases, and software architecture**.
-- 🎯 My goal is to build efficient, user-friendly, and scalable applications.
+Me interesa el desarrollo de software y la creación de soluciones digitales que combinen una buena experiencia de usuario con una estructura técnica sólida.
+
+Tengo conocimientos en desarrollo frontend, programación, bases de datos y herramientas para construir aplicaciones modernas.
+
+Actualmente me enfoco en mejorar mis habilidades en desarrollo web, arquitectura de software e integración de servicios.
 
 ---
 
-## 🛠️ Tech Stack
+## Tecnologías y herramientas
 
-### 🌐 Frontend Development
+### Desarrollo Frontend
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,nextjs&theme=dark" alt="Frontend technologies" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css&theme=dark" alt="React TypeScript JavaScript HTML CSS">
+</div>
 
-### ⚙️ Backend, Programming & Databases
+### Programación y bases de datos
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,supabase,postgres,firebase&theme=dark" alt="Programming and backend technologies" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,supabase&theme=dark" alt="Python Java Supabase">
+</div>
 
-### 🔧 Tools & Development Environment
+### Herramientas de desarrollo
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,figma&theme=dark" alt="Development tools" />
-</p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio&theme=dark" alt="Git GitHub VS Code Android Studio">
+</div>
 
 ---
 
-## 🚀 What I Do
+## Áreas de desarrollo
 
-| Area | Skills |
+| Área | Conocimientos |
 | :--- | :--- |
-| 🌐 **Web Development** | Modern, responsive and interactive websites |
-| 🎨 **Landing Pages** | Attractive pages designed for businesses and products |
-| ⚛️ **Frontend** | React, TypeScript, JavaScript, HTML and CSS |
-| 🗄️ **Web Systems** | Dashboards, management systems and database integration |
-| ⚙️ **Backend Services** | Supabase, authentication and data management |
-| 📱 **Mobile Development** | Android Studio and mobile application fundamentals |
-| 🔄 **Version Control** | Git, GitHub and collaborative workflows |
+| **Desarrollo Web** | Creación de sitios y aplicaciones web modernas |
+| **Landing Pages** | Diseño de páginas responsivas para negocios y servicios |
+| **Frontend** | Interfaces con React, TypeScript, JavaScript, HTML y CSS |
+| **Sistemas Web** | Desarrollo de paneles administrativos y sistemas de gestión |
+| **Bases de Datos** | Integración de Supabase y gestión de información |
+| **Programación** | Desarrollo de soluciones con Python y Java |
+| **Desarrollo Android** | Conocimientos de Android Studio |
+| **Control de Versiones** | Gestión de código mediante Git y GitHub |
 
 ---
 
-## 📊 GitHub Statistics
+## Enfoque de desarrollo
+
+Me interesa trabajar en proyectos que involucren:
+
+- Desarrollo de aplicaciones web responsivas y escalables.
+- Creación de interfaces modernas y componentes reutilizables.
+- Diseño de landing pages para empresas y emprendimientos.
+- Desarrollo de sistemas de gestión y paneles administrativos.
+- Integración de autenticación, bases de datos y servicios backend.
+- Organización del código y buenas prácticas de desarrollo.
+- Optimización de interfaces y experiencia de usuario.
+
+---
+
+## Estadísticas de GitHub
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PeterDiaz1911&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiaz1911&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=PeterDiaz1911&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" height="165" alt="Estadísticas de GitHub">
 
-<img width="80%" src="https://streak-stats.demolab.com?user=PeterDiaz1911&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiaz1911&layout=compact&theme=github_dark&hide_border=true" height="165" alt="Lenguajes utilizados">
+
+</div>
+
+> Las estadísticas dependen de servicios externos y pueden tardar en cargar.
+
+---
+
+## Actualmente aprendiendo
+
+- Desarrollo avanzado con React y TypeScript.
+- Arquitectura de aplicaciones web.
+- Integración de bases de datos y servicios backend.
+- Diseño de componentes reutilizables.
+- Buenas prácticas de programación.
+- Desarrollo de sistemas web completos.
+
+---
+
+## Contacto
+
+<div align="center">
+
+Estoy interesado en seguir aprendiendo, desarrollar proyectos y colaborar en soluciones tecnológicas.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Ver%20perfil-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PeterDiaz1911)
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
-
-- Advanced React and TypeScript patterns
-- Full-stack application architecture
-- Supabase and PostgreSQL integration
-- Clean code and reusable UI components
-- Artificial Intelligence applied to software solutions
-
----
-
-## 🤝 Let's Connect
-
 <div align="center">
 
-I'm always interested in learning, building useful applications, and collaborating on exciting technology projects.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TU_USUARIO)
+<sub>Pedro Jair Díaz Loza | Desarrollo Web y Soluciones Digitales</sub>
 
 </div>
-
----
-
-<div align="center">
-
-### ✨ "Transforming ideas into digital solutions."
-
-**Made with 💙 by Pedro Jair Díaz Loza**
-
-</div>
+  
