@@ -6,7 +6,7 @@
 
 **Building modern web experiences, scalable systems, and creative digital solutions.**
 
-![Profile Views](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?PeterDiaz1911&label=Profile%20Views&color=0e75b6&style=flat)
 ![Status](https://img.shields.io/badge/Status-Learning%20%26%20Building-3ECF8E?style=flat)
 
 </div>
@@ -68,10 +68,10 @@ I'm **Pedro Jair Díaz Loza**, a Systems Engineering student from Peru 🇵🇪,
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PeterDiaz1911&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub statistics" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PeterDiaz1911&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 
-<img width="80%" src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img width="80%" src="https://streak-stats.demolab.com?user=PeterDiaz1911&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
