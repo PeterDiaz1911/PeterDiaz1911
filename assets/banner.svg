@@ -1,0 +1,59 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="300" viewBox="0 0 1100 300">
+  <defs>
+    <linearGradient id="bg" x2="1" y2="1">
+      <stop stop-color="#0A0F1A"/>
+      <stop offset="1" stop-color="#101F36"/>
+    </linearGradient>
+    <linearGradient id="accent">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="1" stop-color="#2563EB"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="300" rx="12" fill="url(#bg)"/>
+
+  <g stroke="#1E3A5F" opacity=".3">
+    <path d="M745 0 500 300 M807 0 562 300
+    M869 0 624 300 M931 0 686 300
+    M993 0 748 300 M1055 0 810 300
+    M1117 0 872 300 M1179 0 934 300"/>
+  </g>
+
+  <rect x="42" y="49" width="4" height="200" rx="2" fill="url(#accent)"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="73" y="90" font-size="18" letter-spacing="4" fill="#60A5FA">
+      SOFTWARE DEVELOPER
+    </text>
+
+    <text x="73" y="149" font-size="49" font-weight="bold" fill="#F1F5F9">
+      PEDRO JAIR
+    </text>
+
+    <text x="73" y="209" font-size="49" font-weight="bold" fill="#38BDF8">
+      DÍAZ LOZA
+    </text>
+
+    <text x="75" y="249" font-size="15" letter-spacing="2" fill="#94A3B8">
+      WEB DEVELOPMENT / SYSTEMS / TECHNOLOGY
+    </text>
+  </g>
+
+  <rect x="802" y="72" width="225" height="148" rx="10"
+        fill="#0B1220" stroke="#2A4360"/>
+
+  <circle cx="821" cy="89" r="4" fill="#F87171"/>
+  <circle cx="835" cy="89" r="4" fill="#FBBF24"/>
+  <circle cx="849" cy="89" r="4" fill="#34D399"/>
+
+  <path d="M820 119 835 133 820 147 M860 147 H892"
+        fill="none" stroke="#38BDF8" stroke-width="4"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <g fill="#1D4E75">
+    <rect x="819" y="166" width="134" height="4" rx="2"/>
+    <rect x="819" y="178" width="181" height="4" rx="2"/>
+    <rect x="819" y="190" width="100" height="4" rx="2"/>
+  </g>
+</svg>
